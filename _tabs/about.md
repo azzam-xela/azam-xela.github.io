@@ -3,11 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
-Howdy! I'm Alex, an aspiring infosec professional with a passion for CTF's, malware analysis, and malware development.
+Howdy! I’m Alex—an aspiring information security professional with a keen interest in CTFs, malware analysis, and malware development. I’m currently a mathematics major at the University of Western Australia, but since discovering the exciting world of cybersecurity, I’ve dedicated countless hours to exploring its intricacies.
 
-I'm a current mathematics major at the University of Western Australia, and convert to the world of infosec. Since learning about this field, i've dedicated most of my free-time to exploring all the wonders of this field. This has resulted in many hours spent on CTF's, analysing and reverse-engineering malware, developing malware, pulling apart IoT devices to study their internals, creating home-labs to play purple-team, and (attempting) to write assembly to exploit binaries. 
+From reverse-engineering malware and writing (or attempting to write!) assembly exploits, to pulling apart IoT devices and building home labs to practice purple teaming, I’m always on the hunt for new challenges and learning opportunities.
 
-When I'm not infront of the screens, i'm out soaking up the sunshine on my motorbike, or getting chalky in the climbing gym. 
+Away from the screens, you’ll often find me soaking up the sun on my motorbike or hitting up the climbing gym.
 
 
 ## Skills
@@ -20,22 +20,20 @@ When I'm not infront of the screens, i'm out soaking up the sunshine on my motor
 ## Certifications & Courses:
 ### Completed: 
 - **Hack the Box - [Information Security Foundations](https://academy.hackthebox.com/path/preview/information-security-foundations)**:
-  -  Provides a foundation in Networking, Windows & Linux fundamentals, Bash scripting, Network Traffic analysis, Active Directory, and Web Applications.
+  -  Gained a foundation in networking, Windows & Linux fundamentals, Bash scripting, network traffic analysis, Active Directory, and web applications.
 - **Hack the Box - [Intro to Binary Exploitation](https://academy.hackthebox.com/path/preview/intro-to-binary-exploitation)**
-  - Provides a foundation in Assembly Language, stack-based buffer overflows (x86) on Linux & Windows.
+  - Learned the basics of assembly language and stack-based buffer overflows (x86) on Linux & Windows
 
 ### In Progress: 
 - **Hack the Box - [Penetration Tester Pathway](https://academy.hackthebox.com/path/preview/soc-analyst)**
-  - Covers core security assessment concepts and provides a deep understanding of the specialized tools, attack tactics, and methodology used during penetration testing.
+  - Deep dive into core security assessment concepts and specialized tools, tactics, and methodologies used in penetration testing.
 - **Hack the Box - [SOC Analyst Pathway](https://academy.hackthebox.com/path/preview/penetration-tester)**
-  -  Covers core security monitoring and security analysis concepts and provides a deep understanding of the specialized tools, attack tactics, and methodology used by adversaries.
+  -  Focus on security monitoring and security analysis concepts, including adversary tactics and tools.
 - **InvokeRE - [Introduction to Malware Binary Triage](https://training.invokere.com/courses)**
-  - Provides a comprehensive overview of the malware binary triage process. Including reverse engineering and analyze real-world malware samples, including a nation state SMB worm, prolific loaders used by cybercriminals and a ransomware variant  that has been used to attack critical infrastructure. 
+  - Hands-on reverse engineering and analysis of real-world malware samples—from nation-state SMB worms to prolific ransomware.
 - **Maldev Academy - [Malware Development Course](https://maldevacademy.com)**
-    - Covers topics such as Windows internals, malware development, C programming, usage of Windows API, reverse engineering, debugging, enhancing opsec considerations, and evading host-based security solutions (i.e. AV/EDR).
+    - Exploring Windows internals, malware development, C programming, Windows API usage, reverse engineering, and evading host-based security solutions.
 - **Constructing Defense -  [Purple Teaming Home Lab](https://course.constructingdefense.com/constructing-defense)**
-  - Build a local and multi-cloud lab which includes various Windows Active Directory, Active Directory Certificate Services, Kubernetes, Azure and AWS VMs.
-  - Execute TTPs and  generate realistic telemetry.
-  - Use a log analytics platform / SIEM to craft threat detection queries for your TTPs. 
+  - Building a local and multi-cloud lab environment featuring various Windows AD setups, Kubernetes, Azure, AWS, and more.
 
 

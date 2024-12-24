@@ -224,17 +224,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-jekyll_compose:
-  draft_default_front_matter:
-    title:
-    date:
-    categories:
-    tags:
-  post_default_front_matter:
-    title:
-    date:
-    categories:
-    tags:
-    published: false
-    sitemap: false
