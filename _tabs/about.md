@@ -3,8 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-## About Me
 Howdy! I'm Alex, an aspiring infosec professional with a passion for CTF's, malware analysis, and malware development.
 
 I'm a current mathematics major at the University of Western Australia, and convert to the world of infosec. Since learning about this field, i've dedicated most of my free-time to exploring all the wonders of this field. This has resulted in many hours spent on CTF's, analysing and reverse-engineering malware, developing malware, pulling apart IoT devices to study their internals, creating home-labs to play purple-team, and (attempting) to write assembly to exploit binaries. 
